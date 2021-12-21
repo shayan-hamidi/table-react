@@ -1,0 +1,16 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 30px;
+}
+table{
+    width: 80%;
+    margin: 0 auto;
+    background-color: #ddd;
+    margin-top: 100px;
+    text-align: center;
+}
+table tbody button{
+    padding: 10px;
+    margin: 10px;
+}
