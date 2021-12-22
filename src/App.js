@@ -1,9 +1,9 @@
+import Formhtml from "./components/Formhtml";
 import "./style.css";
-import UsersTable from "./UsersTable";
 function App() {
   return (
  <div>
-   <UsersTable />
+   <Formhtml />
  </div>
   );
 }
